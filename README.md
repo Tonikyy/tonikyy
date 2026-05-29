@@ -4,7 +4,7 @@ Fullstack Developer specializing in Microsoft Cloud & SaaS Platforms
 
 Building scalable cloud-native applications with .NET, Azure and Angular.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Fullstack+Developer;Azure+Cloud+Enthusiast;Angular+%7C+.NET+%7C+Azure;Building+Enterprise+SaaS+Solutions;Microsoft+365+Platform+Development" /> </div>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Fullstack+Developer;Azure+Cloud+Enthusiast;Angular+%7C+.NET+%7C+Azure;Microsoft+365+Platform+Development" /> </div>
 🚀 About Me
 
 I'm a Fullstack Developer from Finland 🇫🇮 focused on building cloud-native applications.
