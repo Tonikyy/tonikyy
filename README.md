@@ -12,12 +12,19 @@ I'm a Fullstack Developer from Finland 🇫🇮 focused on building cloud-native
 Most of my work revolves around Microsoft's ecosystem, including Azure services, Microsoft 365 integrations, distributed systems, and modern web applications.
 
 🎯 Areas of Interest
+
 Cloud Architecture
+
 Enterprise SaaS
+
 Microsoft 365 Integrations
+
 Distributed Systems
+
 Serverless Computing
+
 Developer Productivity
+
 AI-assisted Software Development
 
 📫 Connect With Me
