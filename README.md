@@ -15,13 +15,7 @@ Most of my work revolves around Microsoft's ecosystem, including Azure services,
 
 Cloud Architecture
 
-Enterprise SaaS
-
 Microsoft 365 Integrations
-
-Distributed Systems
-
-Serverless Computing
 
 Developer Productivity
 
